@@ -1,0 +1,9 @@
+pysocks
+taichi
+pyyaml
+rospkg
+opencv-python
+scipy
+matplotlib
+defusedxml
+numpy == 1.23.0
